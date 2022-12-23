@@ -1,14 +1,5 @@
 {
-	"prefix": "!",
-	"guildID": "Your guild id",
-	"clientID": "Your bot client id",
-	"redTick": "<:1342clown:1032586957827604480>",
-	"greenTick": "<:Admin:1040284060150415480>",
-	"CustomEmoji": "<:info:1039921302988918865>",
-	"red": "#F14948",
-	"green": "#45B681",
-	"lightBlue": "#00D2FF",
-	"darkGreen": "#008369",
+	"clientID": "bot id",
 	"AuthKey": "Your keyauth seller key",
 	"Role": "Your role To get access to the bot commands",
 	"RoleID": "Your role that give to customer when they buy a product"

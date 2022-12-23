@@ -30,16 +30,7 @@ node main.js
 Config
 
 {
-	"prefix": "!",
-	"guildID": "1233455", //guildID in that the bot got used
 	"clientID": "1233455", //ID Of the bot
-	"redTick": "<:1342clown:1032586957827604480>",
-	"greenTick": "<:Admin:1040284060150415480>",
-	"CustomEmoji": "<:info:1039921302988918865>",
-	"red": "#F14948",
-	"green": "#45B681",
-	"lightBlue": "#00D2FF",
-	"darkGreen": "#008369",
 	"AuthKey": "JKBFGSDFNKGBSJK", //Your Super Duper keyauth seller key
 	"Role": "1233455", //Role ID For Staff To gen Key's Or Reset HWID'S
 	"RoleID": "1233455" //RoleID That the Customer Get's after use claim
